@@ -1,0 +1,102 @@
+[
+    {
+        "id": 1,
+        "name": "TechPro Ultrabook 15",
+        "description": "A high-performance 15-inch laptop with the latest processor, perfect for professionals and creators.",
+        "price": 1299.99,
+        "category": "Laptops",
+        "stock_quantity": 45,
+        "specifications": "{\"processor\": \"Intel Core i7-13700H\", \"ram\": \"16GB DDR5\", \"storage\": \"512GB NVMe SSD\", \"display\": \"15.6 inch 2K IPS\", \"battery\": \"72Wh\", \"weight\": \"1.8kg\"}",
+        "average_rating": 4.5
+    },
+    {
+        "id": 2,
+        "name": "TechPro Ultrabook 13",
+        "description": "A compact and lightweight 13-inch laptop, ideal for on-the-go productivity.",
+        "price": 999.99,
+        "category": "Laptops",
+        "stock_quantity": 60,
+        "specifications": "{\"processor\": \"Intel Core i5-1340P\", \"ram\": \"8GB DDR5\", \"storage\": \"256GB NVMe SSD\", \"display\": \"13.3 inch Full HD IPS\", \"battery\": \"56Wh\", \"weight\": \"1.2kg\"}",
+        "average_rating": 4.3
+    },
+    {
+        "id": 3,
+        "name": "ProDesk Desktop Tower",
+        "description": "A powerful desktop computer for demanding workloads, gaming, and content creation.",
+        "price": 1899.99,
+        "category": "Desktops",
+        "stock_quantity": 25,
+        "specifications": "{\"processor\": \"AMD Ryzen 9 7900X\", \"ram\": \"32GB DDR5\", \"storage\": \"1TB NVMe SSD\", \"gpu\": \"NVIDIA RTX 4070\", \"power_supply\": \"750W\"}",
+        "average_rating": 4.7
+    },
+    {
+        "id": 4,
+        "name": "SmartTab Pro 11",
+        "description": "A versatile 11-inch tablet with stylus support, great for note-taking and media consumption.",
+        "price": 599.99,
+        "category": "Tablets",
+        "stock_quantity": 80,
+        "specifications": "{\"processor\": \"Snapdragon 8 Gen 2\", \"ram\": \"8GB\", \"storage\": \"128GB\", \"display\": \"11 inch 2K AMOLED\", \"battery\": \"8000mAh\", \"weight\": \"0.5kg\"}",
+        "average_rating": 4.4
+    },
+    {
+        "id": 5,
+        "name": "UltraWide Monitor 34",
+        "description": "A stunning 34-inch ultrawide curved monitor for immersive productivity and entertainment.",
+        "price": 799.99,
+        "category": "Monitors",
+        "stock_quantity": 35,
+        "specifications": "{\"panel\": \"IPS\", \"resolution\": \"3440x1440\", \"refresh_rate\": \"144Hz\", \"response_time\": \"1ms\", \"hdr\": \"HDR400\", \"ports\": \"2x HDMI, 1x DP, USB-C\"}",
+        "average_rating": 4.6
+    },
+    {
+        "id": 6,
+        "name": "ErgoComfort Keyboard",
+        "description": "An ergonomic wireless mechanical keyboard designed for comfortable all-day typing.",
+        "price": 149.99,
+        "category": "Accessories",
+        "stock_quantity": 150,
+        "specifications": "{\"type\": \"Mechanical\", \"switches\": \"Cherry MX Brown\", \"connectivity\": \"Bluetooth 5.0 + USB-C\", \"battery_life\": \"200 hours\", \"backlight\": \"RGB\"}",
+        "average_rating": 4.2
+    },
+    {
+        "id": 7,
+        "name": "PrecisionMouse Elite",
+        "description": "A high-precision wireless mouse with customizable buttons and long battery life.",
+        "price": 79.99,
+        "category": "Accessories",
+        "stock_quantity": 200,
+        "specifications": "{\"sensor\": \"26000 DPI Optical\", \"buttons\": \"8 programmable\", \"connectivity\": \"Bluetooth + 2.4GHz\", \"battery_life\": \"70 hours\", \"weight\": \"95g\"}",
+        "average_rating": 4.5
+    },
+    {
+        "id": 8,
+        "name": "CloudStore SSD 2TB",
+        "description": "A reliable and fast 2TB external SSD for portable storage needs.",
+        "price": 189.99,
+        "category": "Storage",
+        "stock_quantity": 100,
+        "specifications": "{\"capacity\": \"2TB\", \"interface\": \"USB 3.2 Gen 2\", \"read_speed\": \"1050 MB/s\", \"write_speed\": \"1000 MB/s\", \"encryption\": \"256-bit AES\"}",
+        "average_rating": 4.6
+    },
+    {
+        "id": 9,
+        "name": "TechPro Docking Station",
+        "description": "A universal USB-C docking station with multiple ports for a clean desk setup.",
+        "price": 199.99,
+        "category": "Accessories",
+        "stock_quantity": 70,
+        "specifications": "{\"ports\": \"3x USB-A, 2x USB-C, HDMI, DP, Ethernet, SD Card\", \"power_delivery\": \"100W\", \"display_support\": \"Dual 4K@60Hz\"}",
+        "average_rating": 4.3
+    },
+    {
+        "id": 10,
+        "name": "SecureConnect VPN Router",
+        "description": "A high-performance router with built-in VPN support and advanced security features.",
+        "price": 249.99,
+        "category": "Networking",
+        "stock_quantity": 40,
+        "specifications": "{\"wifi\": \"Wi-Fi 6E\", \"speed\": \"AX6000\", \"ports\": \"4x Gigabit LAN, 1x 2.5G WAN\", \"vpn\": \"Built-in VPN client/server\", \"security\": \"WPA3, Firewall, IDS/IPS\"}",
+        "average_rating": 4.4
+    }
+]
